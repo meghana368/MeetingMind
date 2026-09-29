@@ -1,0 +1,85 @@
+[
+  {
+    "contact_name": "Sarah",
+    "meeting_date": "2026-09-01",
+    "title": "Titke",
+    "notes": "Sarah is concerned about the implementation timeline. She wants to know whether the product can be implemented within 6 weeks.\n\nI promised to send Sarah an implementation proposal after the meeting.\n\nSarah prefers short, direct emails and does not like long slide decks.",
+    "extraction": {
+      "topics": [
+        "Implementation timeline"
+      ],
+      "decisions": [],
+      "commitments": [
+        "The user promised to send Sarah an implementation proposal after the meeting"
+      ],
+      "concerns": [
+        "Sarah is concerned about whether the product can be implemented within 6 weeks"
+      ],
+      "action_items": [
+        "The user will send an implementation proposal to Sarah"
+      ],
+      "preferences": [
+        "Sarah prefers short, direct emails and does not like long slide decks"
+      ],
+      "unresolved_issues": [
+        "Implementation timeline feasibility (6\u2011week target) remains unresolved",
+        "Implementation proposal pending delivery to Sarah"
+      ],
+      "outcomes": [],
+      "resolved_issues": []
+    },
+    "memory_statements": [
+      "[2026-09-01] Meeting with Sarah ('Titke') - Topics discussed: Implementation timeline.",
+      "[2026-09-01] Meeting with Sarah ('Titke') - Commitment (open until fulfilled): The user promised to send Sarah an implementation proposal after the meeting",
+      "[2026-09-01] Meeting with Sarah ('Titke') - Concern raised: Sarah is concerned about whether the product can be implemented within 6 weeks",
+      "[2026-09-01] Meeting with Sarah ('Titke') - Action item (pending): The user will send an implementation proposal to Sarah",
+      "[2026-09-01] Meeting with Sarah ('Titke') - Preference / important fact: Sarah prefers short, direct emails and does not like long slide decks",
+      "[2026-09-01] Meeting with Sarah ('Titke') - Unresolved issue (still open): Implementation timeline feasibility (6\u2011week target) remains unresolved",
+      "[2026-09-01] Meeting with Sarah ('Titke') - Unresolved issue (still open): Implementation proposal pending delivery to Sarah"
+    ],
+    "recorded_at": "2026-09-29T21:28:31"
+  },
+  {
+    "contact_name": "Sarah",
+    "meeting_date": "2026-09-01",
+    "title": "Titke",
+    "notes": "Sarah said the implementation timeline concern is now resolved after reviewing the proposal.\n\nShe is interested in the analytics dashboard and wants to see sample dashboards.\n\nI promised to book an analytics demo and send Sarah sample dashboards.\n\nSarah still prefers short, direct communication.",
+    "extraction": {
+      "topics": [
+        "Implementation timeline",
+        "Analytics dashboard"
+      ],
+      "decisions": [],
+      "commitments": [
+        "The user promised to book an analytics demo and send Sarah sample dashboards."
+      ],
+      "concerns": [],
+      "action_items": [
+        "Book an analytics demo",
+        "Send Sarah sample dashboards"
+      ],
+      "preferences": [
+        "Sarah is interested in the analytics dashboard",
+        "Sarah prefers short, direct communication"
+      ],
+      "unresolved_issues": [],
+      "outcomes": [
+        "Implementation timeline concern resolved"
+      ],
+      "resolved_issues": [
+        "Sarah's implementation timeline concern is resolved"
+      ]
+    },
+    "memory_statements": [
+      "[2026-09-01] Meeting with Sarah ('Titke') - Topics discussed: Implementation timeline; Analytics dashboard.",
+      "[2026-09-01] Meeting with Sarah ('Titke') - Commitment (open until fulfilled): The user promised to book an analytics demo and send Sarah sample dashboards.",
+      "[2026-09-01] Meeting with Sarah ('Titke') - Action item (pending): Book an analytics demo",
+      "[2026-09-01] Meeting with Sarah ('Titke') - Action item (pending): Send Sarah sample dashboards",
+      "[2026-09-01] Meeting with Sarah ('Titke') - Preference / important fact: Sarah is interested in the analytics dashboard",
+      "[2026-09-01] Meeting with Sarah ('Titke') - Preference / important fact: Sarah prefers short, direct communication",
+      "[2026-09-01] Meeting with Sarah ('Titke') - Outcome: Implementation timeline concern resolved",
+      "[2026-09-01] Meeting with Sarah ('Titke') - RESOLVED / COMPLETED - no longer open: Sarah's implementation timeline concern is resolved"
+    ],
+    "recorded_at": "2026-09-29T21:31:57"
+  }
+]

@@ -1,0 +1,6 @@
+streamlit>=1.36
+hindsight-client>=0.4
+groq>=0.11
+python-dotenv>=1.0
+pydantic>=2.6
+pytest>=8.0
